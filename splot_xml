@@ -14,7 +14,5 @@
 <feature_tree>
 :r origen(_r) :m siguiente1(_r_1) :o siguiente2(_r_2) :g (_r_3) [1,*] : grup1(_r_3_4) : grup2(_r_3_5) :g (_r_6) [1,1] : xor21(_r_6_7)
 </feature_tree>
-<constraints>
-constraint_1:_r_1 or _r_3_4 constraint_2:_r_3_5 or _r_6_7
-</constraints>
+
 </feature_model>
